@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- A free and open source forum software built for the modern times.
+ A free, responsive, and open source forum software built for the modern times.
 </p>
 
 <p align="center">
