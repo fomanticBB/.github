@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.mp/docs">
+  <a href="https://github.com/fomanticBB">
     <img src="https://img.shields.io/badge/Docs-9083D2?logoColor=9083D2" />
   </a>
   <br />
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://discord.gg/6PUZCpXjpz">
-    <img src="https://img.shields.io/discord/231799104731217931?label=Discord&color=5865F2" />
+    <img src="https://img.shields.io/discord/973777732427206656?label=Discord&color=5865F2" />
   </a>
 </p>
 
