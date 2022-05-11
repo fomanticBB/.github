@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="fomanticBB logo">
-    <img src="https://raw.githubusercontent.com/fomanticBB/.github/main/fomanticbb.png" width="420" />
+    <img src="https://raw.githubusercontent.com/fomanticBB/.github/main/fomanticbb.png" width="210" />
   </a>
 </p>
 
